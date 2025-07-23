@@ -1,6 +1,1 @@
 test testowy
-test nowej gałęzi
-
-
-
-wiecej testowania
