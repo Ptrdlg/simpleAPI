@@ -1,1 +1,1 @@
-just very simple test project
+Just very simple test project
